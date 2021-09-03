@@ -2,6 +2,6 @@
 
 ## Roadmap
 
-Define basic changes
+Define basic features
 
 adding new line
