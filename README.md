@@ -2,4 +2,4 @@
 
 ## Roadmap
 
-Define basic changes
+Define basic features
