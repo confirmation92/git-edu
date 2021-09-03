@@ -6,6 +6,6 @@ Define basic features
 
 adding new line
 
-## Guide
+## Blueprint
 
-`git clone`
+hello!
